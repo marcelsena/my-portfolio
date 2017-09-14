@@ -1,2 +1,1 @@
-# my-portfolio
-AWS Serveless Portfolio
+# Marcel Sena - AWS Serverless w/ React
