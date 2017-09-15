@@ -2,7 +2,8 @@
 AWS Serverless w/ React
 
 #Technologies used
+Brew
 Git and GitHub
 SSH
-AWS
+AWS-Serverless
 React
