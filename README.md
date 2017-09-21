@@ -7,3 +7,7 @@ Git and GitHub
 SSH
 AWS-Serverless
 React
+HTML
+CSS
+Font Awesome
+Google Fonts
