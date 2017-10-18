@@ -1,0 +1,13 @@
+version: 1.0
+
+phases:
+  build:
+    command:
+      - echo Nothing to do yet!
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Marcel-Sena-Resume.pdf
+    - styles/main.css
+    - images/*
